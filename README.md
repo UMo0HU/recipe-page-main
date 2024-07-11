@@ -22,7 +22,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 ### Links
 
 - Solution URL: [Solution](https://github.com/UMo0HU/recipe-page-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://umo0hu.github.io/recipe-page-main/)
 
 ### Built with
 
